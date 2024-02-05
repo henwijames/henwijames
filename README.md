@@ -1,6 +1,6 @@
 ### Hi there 👋, Henry James Ribano
 #### Front-End Web Developer
-![Front-End Web Developer]([https://pbs.twimg.com/profile_banners/954684564789608449/1707104298/1080x360](https://github.com/henwijames/henwijames/blob/main/HENRY%20JAMES%20RIBANO.png))
+![Front-End Web Developer](https://pbs.twimg.com/profile_banners/954684564789608449/1707104298/1080x360](https://github.com/henwijames/henwijames/blob/main/HENRY%20JAMES%20RIBANO.png)
 
 "Enthusiastic and dedicated third-year web development student hailing from the picturesque town of Taal, Batangas, Philippines. With a fervent passion for coding and a keen eye for design, I am committed to crafting innovative and user-centric digital experiences. Currently honing my skills and expanding my knowledge in the ever-evolving realm of web development, I am driven by a relentless curiosity to explore new technologies and bring creative ideas to life. Join me on this exciting journey as I strive to make a meaningful impact in the dynamic world of web development."
 
