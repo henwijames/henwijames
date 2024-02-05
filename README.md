@@ -3,7 +3,7 @@
 # Henry James Ribano
 #### Front-End Web Developer
 
-Passionate 3rd-year web development student from Taal, Batangas. Dedicated to crafting user-centric digital experiences with coding expertise and design flair. Constantly expanding skills and exploring new technologies, I'm on a journey to make a meaningful impact in the dynamic world of web development. Join me on this exciting adventure!
+Passionate 3rd-year Bachelor's of Science in Information Technology Student from Taal, Batangas. Dedicated to crafting user-centric digital experiences with coding expertise and design flair. Constantly expanding skills and exploring new technologies, I'm on a journey to make a meaningful impact in the dynamic world of web development. Join me on this exciting adventure!
 
 ## Skills
 • 💻 HTML, CSS, JAVASCRIPT, PHP <br>
