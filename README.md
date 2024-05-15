@@ -8,7 +8,7 @@ Passionate 3rd-year Bachelor's of Science in Information Technology Student from
 ## Skills
 • 💻 HTML, CSS, JAVASCRIPT, PHP <br>
 • 📱 SCSS, Bootstrap, Tailwind CSS <br>
-• ⚙️ Git, MySQL, VB.NET
+• ⚙️ Git, MySQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henwijames)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hnryjmsrbn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ribanohenwi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hnryjmsrbn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://henwi.netlify.app/)  
 
