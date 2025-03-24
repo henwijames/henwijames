@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **ReactJS, Laravel**
 
-- 👨‍💻 All of my projects are available at [henwi.vercel.app](henwi.vercel.app)
+- 👨‍💻 All of my projects are available at [henwi.vercel.app](https://henwi.vercel.app)
 
 - 📫 How to reach me **henryribano27@gmail.com**
 
-- 📄 Know about my experiences [henwi.vercel.app/Resume.pdf](henwi.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [henwi.vercel.app/Resume.pdf](https://henwi.vercel.app/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
