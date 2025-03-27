@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **henryribano27@gmail.com**
 
-- 📄 Know about my experiences [henwi.vercel.app/Resume.pdf](https://henwi.vercel.app/resume/Resume.pdf)
+- 📄 Know about my experiences [henwi.vercel.app/resume/Resume.pdf](https://henwi.vercel.app/resume/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
