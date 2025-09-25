@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henwijames&label=Profile%20views&color=0e75b6&style=flat" alt="henwijames" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Laravel**
-
 - 👨‍💻 All of my projects are available at [henwi.vercel.app](https://henwi.vercel.app)
 
 - 📫 How to reach me **henryribano27@gmail.com**
