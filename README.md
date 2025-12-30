@@ -20,5 +20,3 @@
        alt="Node.js"
        width="40" height="40" />
 </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henwijames&show_icons=true&locale=en&layout=compact" alt="henwijames" /></p>
