@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Ajman, UAE</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=henwijames&label=Profile%20views&color=0e75b6&style=flat" alt="henwijames" /></p>
 
-- 👨‍💻 All of my projects are available at [henwi.vercel.app](https://henwi.vercel.app)
+- 👨‍💻 All of my projects are available at [hjrportfolio.vercel.app](https://hjrportfolio.vercel.app)
 - 📫 How to reach me **henryribano27@gmail.com**
 
 ---
@@ -13,8 +13,8 @@ HTML5 • CSS3 • JavaScript • React • Next.js • Inertia.js • Tailwind 
 
 ### ⚙️ Backend
 
-PHP • Laravel • CodeIgniter • Node.js • Express.js • MySQL • Prisma
+PHP • Laravel • CodeIgniter • Node.js • Nest.js  • Express.js • MySQL • Prisma 
 
 ### 🛠️ Tools
 
-Git • Docker • Postman
+Git • Docker • Postman • Github Workflows/Actions • VPS
