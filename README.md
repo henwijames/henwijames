@@ -9,7 +9,7 @@
 
 ### 🎨 Frontend
 
-HTML5 • CSS3 • JavaScript • React • Next.js • Inertia.js • Tailwind CSS • Bootstrap • Sass • shadcn/ui • Figma
+HTML5 • CSS3 • JavaScript • React • Next.js • Inertia.js • Tailwind CSS • Bootstrap • Sass • shadcn/ui 
 
 ### ⚙️ Backend
 
@@ -17,4 +17,4 @@ PHP • Laravel • CodeIgniter • Node.js • Nest.js  • Express.js • MySQ
 
 ### 🛠️ Tools
 
-Git • Docker • Postman • Github Workflows/Actions • VPS
+Git • Docker • Postman • Github Workflows/Actions • VPS • Figma
